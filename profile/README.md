@@ -1,4 +1,4 @@
-## Hi there 👋
+## Integri, open-source integration & workflow automation platform, designed to be dead simple.
 
 <!--
 
