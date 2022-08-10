@@ -1,4 +1,4 @@
-## Integri
+## Byte Chef
 Open-source integration & workflow automation platform, designed to be dead simple.
 
 <!--
